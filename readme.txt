@@ -1,0 +1,1 @@
+run gait_cluster.py before running logistic_asymmetry.py
