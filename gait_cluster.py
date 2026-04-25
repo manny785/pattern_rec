@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 
-DATA_DIR = "data"   # change to "." if files are in same folder as script
+DATA_DIR = "data"   
 OUTPUT_DIR = "output" 
 DEMOGRAPHICS_FILE = os.path.join(DATA_DIR, "demographics.txt")
 
